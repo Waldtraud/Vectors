@@ -1,2 +1,3 @@
 # VectorMath
- fomy study
+ for my study
+ 
